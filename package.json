@@ -1,0 +1,11 @@
+{
+  "name": "finishtoday",
+  "version": "1.0.0",
+  "description": "FinishToday - Smart Intelligent To-Do List with Adaptive Scheduling, Historic Records, and Night Review",
+  "scripts": {
+    "server": "node server/server.js",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "node server/server.js"
+  }
+}

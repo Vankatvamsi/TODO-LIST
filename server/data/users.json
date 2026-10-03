@@ -1,0 +1,22 @@
+[
+  {
+    "id": "user_1791033496088_hytum",
+    "name": "Vamsi Kumar",
+    "email": "vamsi@example.com",
+    "phone": "9876543210",
+    "password": "secret123",
+    "nightReminderTime": "21:00",
+    "reminderLeadMinutes": 10,
+    "createdAt": "2026-10-03T13:18:16.088Z"
+  },
+  {
+    "id": "user_1791034244834_i55ga",
+    "name": "Vamsi",
+    "email": "vamsi@gmail.com",
+    "phone": "9827500473",
+    "password": "123456",
+    "nightReminderTime": "21:00",
+    "reminderLeadMinutes": 10,
+    "createdAt": "2026-10-03T13:30:44.834Z"
+  }
+]
